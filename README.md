@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/Kq0XZsT.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="50px"/></a>
 <h1 align="center">Hey! I am Gabriel👋</h1>
 <h3 align="center">I am a young 16-year-old developer who is looking forward to progressing in the IT world</h3>
 
